@@ -162,6 +162,10 @@ footer {
     opacity: 0;
   }
 
+  .hide {
+    display: none;
+  }
+
   header #snb .sub_menu li {
     padding: 10px 0;
     font: normal 16px/1 'Merriweather';
